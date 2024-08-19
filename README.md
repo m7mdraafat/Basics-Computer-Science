@@ -8,7 +8,7 @@
 هتبدأ تتعلم الأساسيات ودا عشان تبني عليه بعد كدا أي تراك حابب تمشي فيه. في البوست دا هسيبلك كل الـ **roadmap** اللي ممكن تمشي عليها. 
 
 -- بس قبل أي حاجة عاوزك تبص على أول 5 فيديوهات من البلاي ليست دي وادعيلي هتنورلك الطريق: 
-[بلاي ليست - البداية]([https://www.youtube.com/playlist?list=PLZNz7wrFA85CoVS1vy4dznhSsKe9eGQeL](https://www.youtube.com/playlist?list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB))
+[بلاي ليست - البداية](https://www.youtube.com/playlist?list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB)
 
 ## 1. هتبدأ تعرف يعني إيه كمبيوتر أصلاً وازاي بيشتغل
    - دي سلسلة ما قبل البرمجة بشمهندس أسامة الزيرو: [رابط البلاي ليست](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx8xKvAXpb6f0Urj98Xo7zg)
