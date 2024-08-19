@@ -28,8 +28,8 @@
 ## 4. OOP
    - كونك وصلت للمرحلة دي ف لازم تكون بتعرف تسيرش على أي حاجة وقفة معاك. ف أنا عاوزك تبحث إزاي تعمل مشروع C++ بدون OOP وتحاول تعمله بإيدك وبعدين تروح تتعلم OOP وبعد ما تخلصها تحاول تعمل المشروع دا تاني بالـ OOP وهنا هتعرف أهمية الـ OOP وليه بنتعلمها.
    - دي مصادر ذاكر من المصدر اللي تحبه:
-     1. الدسوقي: [رابط الفيديو](https://www.youtube.com/playlist?list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU)
-     2. عادل نسيم: [رابط الفيديو](https://www.youtube.com/playlist?list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow)
+     1. الدسوقي: [رابط البلاي ليست](https://www.youtube.com/playlist?list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU)
+     2. عادل نسيم: [رابط البلاي ليست](https://www.youtube.com/playlist?list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow)
      3. مصطفى سعد: [رابط البلاي ليست](https://www.youtube.com/playlist?list=PLPt2dINI2MIbMba7tpx3qvmgOsDlpITwG)
 
    - متنساش إنك لسه بتحل بروبلم سولفينج.
