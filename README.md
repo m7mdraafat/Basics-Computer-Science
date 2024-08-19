@@ -38,8 +38,8 @@
    - هنبدأ نتعلم الـ data structures، وهي باختصار هتتعلم إزاي تخزن البيانات في الذاكرة (بعد ما تتعلمها ارجع بص على مشروع الـ OOP وحاول توظف اللي تعلمته هناك).
    - المصادر:
      1. Linear Data Structures: [رابط البلاي ليست](https://www.youtube.com/playlist?list=PLsGJzJ8SQXTcsXRVviurGei0lf_t_I4D8)
-     2. Non-Linear Data Structures:
-        - دي بلاي ليست ل عادل نسيم (DS كلها): [رابط البلاي ليست](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
+     2. Non-Linear Data Structures: دي بلاي ليست ل عادل نسيم (DS كلها): [رابط البلاي ليست](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
+     3. كورس دا كويس برضو: [رابط الكورس](https://www.youtube.com/watch?v=cGgzFPRLl4o&list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca)
    - للأمانة أنا كنت مذاكر من كورس مدفوع بتاع د مصطفى سعد ف لو عاوزه كلمني أفهمك هسيبلك اللينكات تحت عشان تتواصل معايا ، + في كورس كويس برضو لبشمهندس متولي ممكن تبحث عنه لأنه مدفوع برضو.
 
 ## 6. الخوارزميات
