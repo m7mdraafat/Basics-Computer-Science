@@ -51,27 +51,27 @@
    - أنت بقا في المرحلة دي هتتعلم خوارزميات مختلفة عشان تحسن من أداء البرنامج بتاعك وانت بتبنيه.
    - المصادر:
      - كورس عادل نسيم نفس بلاي ليست الداتاستركشرز بس من فيديو 24: [رابط الفيديو](https://www.youtube.com/watch?v=EnodMqJuQEo&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp&index=25&pp=iAQB) ==> خد بالك الخوارزميات هنا مش كامله ف شوف بقا كورس بشمهندس عبدالباري حلو جدا 
-     - عم الناس عبد الباري (إنجليزي) كورس جامد جداً: [رابط الفيديو](https://www.youtube.com/watch?v=0IAPZzGSbME)
-     - في برضو كورس مدفوع لد مصطفى سعد.
+     - عم الناس عبد الباري (إنجليزي) كورس جامد جداً: [رابط الفيديو](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+     - في برضو كورس مدفوع ل د مصطفى سعد.
 
 ## 7. قواعد البيانات
    - ببساطة دا المكان اللي بنخزن فيه الداتا بتاعت الأبلكيشن.
    - طب إزاي وإحنا اتعلمنا Data Structures عشان نخزن البيانات؟
      - الـ Data Structures بنخزن البيانات في الذاكرة (مؤقتة طول ما البرنامج شغال، لو اتقفل هتطير) ف احنا عاوزين نحفظها بشكل دائم نعمل إيه؟ نتعلم قواعد البيانات يا حبيب قلبي.
    - المصادر:
-     1. اعرف يعني إيه قاعدة بيانات الأول: [رابط الفيديو](https://www.youtube.com/watch?v=GBeWKa1Lc6I&t=419s)
-     2. الجزء النظري - الدسوقي: [رابط الفيديو](https://www.youtube.com/watch?v=yLc0Yp5QZlU)
-     3. العملي محتوى ITI: [رابط الفيديو](https://www.youtube.com/watch?v=nUiuyejbemc)
-     4. كمان كورس بشمهندس عصام عبدالنبي: [رابط الفيديو](https://www.youtube.com/watch?v=QO8DtgX5pnU)
+     1. اعرف يعني إيه قواعد البيانات الأول: [رابط الفيديو](https://www.youtube.com/watch?v=GBeWKa1Lc6I&t=419s)
+     2. الجزء النظري - الدسوقي: [رابط البلاي ليست](https://www.youtube.com/playlist?list=PL37D52B7714788190)
+     3. العملي محتوى ITI: [رابط البلاي ليست](https://www.youtube.com/playlist?list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_)
+     4. كمان كورس بشمهندس عصام عبدالنبي: [رابط البلاي ليست](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RP_OovpgjoHLkCVaYFy-aj)
 
 ## 8. أنظمة التشغيل
    - ليه؟ ببساطة أنت في الأول وفي الآخر بتبرمج على Operating System والـ Application بتاعك الناس هتستخدمه من Operating Systems مختلفة ف ببساطة أنت كمهندس برمجيات لازم تعرف يعني إيه Operating System.
-   - دا كورس عربي: [رابط البلاي ليست](https://www.youtube.com/playlist...)
-   - دا كورس إنجليزي: [رابط الفيديو](https://www.youtube.com/watch?v=vBURTt97EkA)
+   - دا كورس عربي: [رابط البلاي ليست](https://www.youtube.com/playlist?list=PLTr1xN4uMK5seRz6IO7Am9Zp2UKdnzO_n)
+   - دا كورس إنجليزي: [رابط البلاي ليست](https://www.youtube.com/watch?v=F18RiREDkwE&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O&index=4)
 
 ## 9. الشبكات
    - أنت بتشوف البوست دا على فيسبوك من مكان غير مكاني وعلى شبكة غير شبكتي، ف أنت لازم تعرف إزاي الإنترنت دا شغال وإزاي بنقدر نتواصل مع بعض.
-   - الكورس دا كويس كمقدمة للشبكات: [رابط الفيديو](https://www.youtube.com/watch?v=q6tUCEUqxTQ)
+   - الكورس دا كويس كمقدمة للشبكات: [رابط الفيديو](https://www.youtube.com/playlist?list=PL8s4OGp0649_e_Wbz5MlBgW5rBW-9hD0c)
 
 ## 10. هندسة البرمجيات
    - عاوزك تعرف يعني إيه Software Engineering في المرحلة دي بس وأعمل نوت كدا إنك هترجع لها قدام شوية أما تقرب تدخل سوق العمل.
