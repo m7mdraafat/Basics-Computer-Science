@@ -21,7 +21,7 @@
      3. كورس عادل نسيم: [رابط البلاي ليست](https://www.youtube.com/playlist?list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3)
 
 ## 3. البروبلم سولفينج
-   - كل المطلوب منك تسمع البلاي ليست دي وتفهم يعني إيه problem solving وإيه الـ online judges اللي هتحل عليها.
+   - كل المطلوب منك تسمع البلاي ليست دي وتفهم يعني إيه problem solving وإيه الـ online judges اللي هتحل عليها [رابط البلاي ليست](https://youtube.com/playlist?list=PLPt2dINI2MIaNcU070HIAO8JWYBcafuyG&si=-_LpuF23alFHUx1q).
    - دا بقا شيت أسيوط اللي هتبدأ تحل منه، هتنزل تحت تلاقي week1 تبقى تبص على المصادر وتبقى تحل من problem اللي تحت المصادر: [رابط الشيت](https://docs.google.com/spreadsheets/d/1EbbsotAwb0zuuwxyzs8l2qh8twqw-sNcNbAjCK1kXaE/edit?gid=1883813926#gid=1883813926)
    - البروبلم سولفينج هي مهارة والمهارة عشان ننميها محتاجة وقت، فدا مش معناه إننا هنوقف تعلم لحد ما نخلصها عشان هي مش هتخلص. ف أنا من وجهة نظري أول ما تخلص شيت 5 تبدأ تذاكر الخطوة الجاية.
 
