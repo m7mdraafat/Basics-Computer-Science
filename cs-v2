@@ -1,0 +1,43 @@
+# The Ultimate CS Roadmap for who need to be software engineer
+
+### _From "Ana mesh fahem 7aga" to "I'm ready for at least internship interviews" in ~1-2 years_
+---
+> **Welcome!** 👋
+> You opened this probably thinking "CS is hard w keda" — and honestly? You're right. BUT! With the right roadmap, study partner 😉, some koshary breaks, and a lot of coffee (or shai b laban), you'll make it. I promise. Yalla beena
+---
+
+## Who Is This For?
+- You just entered CS faculty and have **zero clue** what's happening
+- Your professor speaks in Assembly and you're still on "Hello World!"
+- You heared "Data Structures" and thought it's about building furniture
+- You want a job at FAANG but can't even center a div (relatable 😭)
+- You don't understand previous joke, exactly you don't know what I meant by `center div`
+---
+
+## The Roadmap Overview
+
+| #   | Topic                                                       | Duration   | Difficulty  |
+| --- | ----------------------------------------------------------- | ---------- | ----------- |
+| 1   | [C++ Programming](#-topic-1-c-programming-language)         | 2 months   | 🟢 Beginner |
+| 2   | [OOA + OOP](#-topic-2-ooa--oop)                             | 2.5 months | 🟡 Medium   |
+| 3   | [DSA (+ Big-O)](#-topic-3-dsa-data-structures--algorithms)  | 3 months   | 🔴 Spicy    |
+| 4   | [Operating Systems](#-topic-4-operating-systems)            | 2 months   | 🟡 Medium   |
+| 5   | [Computer Networks](#-topic-5-computer-networks)            | 1.5 months | 🟡 Medium   |
+| 6   | [Database + SQL](#-topic-6-database--sql)                   | 2 months   | 🟢 Beginner |
+| 7   | [SWE Principles](#-topic-7-software-engineering-principles) | 2 months   | 🟡 Medium   |
+
+**Total: ~15 months** _(mesh 15 sana)_
+---
+
+## Topic 1: C++ Programming Language
+### _"El Asas ya 7mada — The Foundation"_
+
+**Duration:** 2 months  
+**Difficulty:** 🟢 Easy start, don't worry
+
+### What You'll Learn:
+- Variables (int, float, string — el basics)
+- Loops 
+
+
+
